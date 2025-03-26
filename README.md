@@ -63,8 +63,8 @@ There is some bad understood __vector_11() error when worker() is private.
 
 ## Pre-scaler constants
 
-|  Value  |  Prescaler       |  Timer1      |  Notes       |
-|:-------:|:----- -----------|:-------------|:------------:|
+|  Value  |  Prescaler       |  Timer1      |  Notes       
+|:-------:|:----- -----------|:-------------|:------------:
 |    0    |  NO_CLOCK        |  timer off   | 
 |    1    |  PRESCALE_1      |  clk / 1     | 
 |    2    |  PRESCALE_8      |  clk / 8     | 
